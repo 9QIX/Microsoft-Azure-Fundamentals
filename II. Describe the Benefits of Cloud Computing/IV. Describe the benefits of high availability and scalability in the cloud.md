@@ -30,3 +30,5 @@ With vertical scaling, if you were developing an app and you needed more process
 With horizontal scaling, if you suddenly experienced a steep jump in demand, your deployed resources could be scaled out (either automatically or manually). For example, you could add additional virtual machines or containers, scaling out. In the same manner, if there was a significant drop in demand, deployed resources could be scaled in (either automatically or manually), scaling in.
 
 ## Next Unit: Describe the Benefits of Reliability and Predictability in the Cloud
+
+fff
