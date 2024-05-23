@@ -19,7 +19,7 @@ If you receive a notice saying Microsoft Learn needs your permission to create A
 
 Once the sandbox launches, half the screen will be in PowerShell command line interface (CLI) mode. If you’re familiar with PowerShell, you can manage your Azure environment using PowerShell commands.
 
-![Screenshot of the Azure PowerShell CLI at initial launch.](image_link)
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-1.png)
 
 **Tip:**  
 You can tell you're in PowerShell mode by the PS before your directory on the command line.
@@ -46,7 +46,7 @@ Enter `bash` to switch to the BASH CLI.
 bash
 ```
 
-![Screenshot of the Azure BASH CLI at initial launch.](image_link)
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-2.png)
 
 **Tip:**  
 You can tell you're in BASH mode by the username displayed on the command line. It will be your `username@azure`.
@@ -59,7 +59,7 @@ Get-date
 
 You received an error because `Get-date` is a PowerShell specific command.
 
-![Screenshot of BASH error message get-date command not found.](image_link)
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-3.png)
 
 Use the `date` command to get the current date and time.
 
@@ -89,7 +89,7 @@ Decide whether you wish to send telemetry data and enter `YES` or `NO`.
 
 You may have to wait a minute or two to allow the interactive mode to fully initialize. Then, enter the letter “a” and auto-completion should start to work. If auto-completion isn’t working, erase what you’ve entered, wait a bit longer, and try again.
 
-![Screenshot of interactive mode with autocompletion providing commands that start with A.](image_link)
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-4.png)
 
 Once initialized, you can use the arrow keys or tab to help complete your commands. Interactive mode is set up specifically for Azure, so you don't need to enter `az` to start a command (but you can if you want to or are used to it). Try the `upgrade` or `version` commands again, but this time without `az` in front.
 
