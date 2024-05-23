@@ -20,6 +20,8 @@ When you deploy a resource in Azure, you'll often need to choose the region wher
 
 Availability zones are physically separate datacenters within an Azure region. Each availability zone is made up of one or more datacenters equipped with independent power, cooling, and networking. An availability zone is set up to be an isolation boundary. If one zone goes down, the other continues working. Availability zones are connected through high-speed, private fiber-optic networks.
 
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-5.png)
+
 > Important: To ensure resiliency, a minimum of three separate availability zones are present in all availability zone-enabled regions. However, not all Azure Regions currently support availability zones.
 
 ### Use availability zones in your apps
@@ -43,6 +45,8 @@ Most Azure regions are paired with another region within the same geography (suc
 > Important: Not all Azure services automatically replicate data or automatically fall back from a failed region to cross-replicate to another enabled region. In these scenarios, recovery and replication must be configured by the customer.
 
 Examples of region pairs in Azure are West US paired with East US and South-East Asia paired with East Asia. Because the pair of regions are directly connected and far enough apart to be isolated from regional disasters, you can use them to provide reliable services and data redundancy.
+
+![alt text](/IV.%20Describe%20the%20core%20architectural%20components%20of%20Azure/Images/image-6.png)
 
 Additional advantages of region pairs:
 
