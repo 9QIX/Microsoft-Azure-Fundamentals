@@ -9,7 +9,7 @@ Infrastructure as a service (IaaS) is the most flexible category of cloud servic
 
 The shared responsibility model applies to all the cloud service types. IaaS places the largest share of responsibility with you. The cloud provider is responsible for maintaining the physical infrastructure and its access to the internet. You’re responsible for installation and configuration, patching and updates, and security.
 
-![alt text](./image.png)
+![alt text](/III.%20Describe%20cloud%20service%20types/Images/image.png)
 
 ## Scenarios
 
