@@ -64,7 +64,7 @@ Copy the IP address that you see to the clipboard.
 
 Open a new browser tab and go to your web server. After a few moments, you see that the connection isn't happening. If you wait for the browser to time out, you'll see something like this:
 
-![Screenshot of a web browser showing an error message that says the connection timed out.](browser-timeout-error.png)
+![alt text](../Images/image.png)
 
 Keep this browser tab open for later.
 
@@ -185,7 +185,7 @@ You see this:
 
 As an optional step, refresh your browser tab that points to your web server. You see this:
 
-![A screenshot of a web browser showing the home page from the web server. The home page displays a welcome message.](browser-success.png)
+![alt text](../Images/image-1.png)
 
 Nice work. In practice, you can create a standalone network security group that includes the inbound and outbound network access rules you need. If you have multiple VMs that serve the same purpose, you can assign that NSG to each VM at the time you create it. This technique enables you to control network access to multiple VMs under a single, central set of rules.
 
