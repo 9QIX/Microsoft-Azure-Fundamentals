@@ -13,7 +13,7 @@ During sign-in, Conditional Access collects signals from the user, makes decisio
 
 The following diagram illustrates this flow:
 
-![alt text](image-3.png)
+![alt text](./Images/image-3.png)
 
 Here, the signal might be the user's location, the user's device, or the application that the user is trying to access.
 
