@@ -18,6 +18,8 @@
 - Passwords on their own are low security but high convenience.
 - Passwords + 2 Factor authentication is high security but low convenience.
 
+![alt text](./Images/image-1.png)
+
 ## Single Sign-On (SSO)
 
 - SSO enables a user to sign in once and access multiple resources and applications from different providers.
