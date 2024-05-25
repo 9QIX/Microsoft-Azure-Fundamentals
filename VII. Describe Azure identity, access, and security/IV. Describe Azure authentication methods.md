@@ -5,10 +5,10 @@
 - Authentication is the process of establishing the identity of a person, service, or device.
 - It requires providing credentials to prove identity.
 - Azure supports multiple authentication methods:
-- Standard passwords
-- Single sign-on (SSO)
-- Multifactor authentication (MFA)
-- Passwordless
+  - Standard passwords
+  - Single sign-on (SSO)
+  - Multifactor authentication (MFA)
+  - Passwordless
 
 ## Security vs. Convenience
 
