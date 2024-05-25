@@ -92,8 +92,4 @@ In almost all cases, attackers are after data:
 - Stored in software as a service (SaaS) applications, such as Office 365.
 - Managed through cloud storage.
 
-Next unit: Describe Microsoft Defender for Cloud
-
-```
-
-```
+## Next unit: Describe Microsoft Defender for Cloud
