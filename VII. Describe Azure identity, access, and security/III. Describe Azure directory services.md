@@ -50,7 +50,7 @@ You don't need to manage, configure, or update these DCs. The Azure platform han
 
 A managed domain is configured to perform a one-way synchronization from Microsoft Entra ID to Microsoft Entra Domain Services. You can create resources directly in the managed domain, but they aren't synchronized back to Microsoft Entra ID. In a hybrid environment with an on-premises AD DS environment, Microsoft Entra Connect synchronizes identity information with Microsoft Entra ID, which is then synchronized to the managed domain.
 
-![Diagram of Microsoft Entra Connect Sync synchronizing information back to the Microsoft Entra tenant from on-premises AD](https://docs.microsoft.com/en-us/learn/wwl-azure-study-guide/describe-azure-identity-services/media/azure-ad-connect-sync-2.png)
+![alt text](./Images/image.png)
 
 Applications, services, and VMs in Azure that connect to the managed domain can then use common Microsoft Entra Domain Services features such as domain join, group policy, LDAP, and Kerberos/NTLM authentication.
 
