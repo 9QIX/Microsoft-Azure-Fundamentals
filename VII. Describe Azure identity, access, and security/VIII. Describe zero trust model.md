@@ -27,3 +27,5 @@ To address this new world of computing, Microsoft highly recommends the Zero Tru
 Traditionally, corporate networks were restricted, protected, and generally assumed safe. Only managed computers could join the network, VPN access was tightly controlled, and personal devices were frequently restricted or blocked.
 
 The Zero Trust model flips that scenario. Instead of assuming that a device is safe because it's within the corporate network, it requires everyone to authenticate. Then grants access based on authentication rather than location.
+
+![alt text](./Images/image-5.png)
