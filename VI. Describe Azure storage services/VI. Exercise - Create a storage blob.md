@@ -1,15 +1,5 @@
 # **Exercise - Create a storage blob**
 
-Completed 100 XP
-
-- 10 minutes
-
-Sandbox activated! Time remaining:
-
-**58 min**
-
-You have used 3 of 10 sandboxes for today. More sandboxes will be available tomorrow.
-
 ## **Create a storage account**
 
 In this task, you'll create a new storage account.
@@ -66,7 +56,6 @@ In this section, you'll create a Blob container and upload a picture.
 You should receive an error message similar to the following.
 
 ```
-
 <Error>
   <Code>ResourceNotFound</Code>
   <Message>The specified resource does not exist. RequestId:4a4bd3d9-101e-005a-1a3e-84bd42000000</Message>
