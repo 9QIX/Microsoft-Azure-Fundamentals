@@ -8,7 +8,11 @@ A number of factors influence the cost of Azure resources. The type of resources
 
 - With a storage account, you specify a type such as blob, a performance tier, an access tier, redundancy settings, and a region. Creating the same storage account in different regions may show different costs and changing any of the settings may also impact the price.
 
+![alt text](./Images/image.png)
+
 - With a virtual machine (VM), you may have to consider licensing for the operating system or other software, the processor and number of cores for the VM, the attached storage, and the network interface. Just like with storage, provisioning the same virtual machine in different regions may result in different costs.
+
+![alt text](./Images/image-1.png)
 
 ## Consumption
 
