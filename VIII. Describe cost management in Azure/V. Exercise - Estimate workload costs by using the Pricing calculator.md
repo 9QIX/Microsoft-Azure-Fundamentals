@@ -22,7 +22,7 @@ To migrate to Azure, you might:
 
 Here's a diagram that shows the basic configuration:
 
-![alt text](image-4.png)
+![alt text](./Images/image-4.png)
 
 In practice, you would define your requirements in greater detail. But here are some basic facts and requirements to get you started:
 
@@ -40,7 +40,7 @@ Go to the [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calcula
 
 Notice the following tabs:
 
-![alt text](image-5.png)
+![alt text](./Images/image-5.png)
 
 - **Products** This is where you choose the Azure services that you want to include in your estimate. You'll likely spend most of your time here.
 - **Example scenarios** Here you'll find several reference architectures, or common cloud-based solutions that you can use as a starting point.
