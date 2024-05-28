@@ -23,6 +23,8 @@ Let's say that:
 
 Recall that the TCO Calculator involves three steps:
 
+![alt text](./Images/image-6.png)
+
 ## **Define your workloads**
 
 Enter the specifications of your on-premises infrastructure into the TCO Calculator.
