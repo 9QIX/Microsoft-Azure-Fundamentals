@@ -24,7 +24,7 @@ Azure Cloud Shell is a browser-based shell tool that allows you to create, confi
 
 You can access Azure Cloud Shell via the Azure portal by selecting the Cloud Shell icon:
 
-![alt text](image.png)
+![alt text](./Images/image.png)
 
 Azure Cloud Shell has several features that make it a unique offering to support you in managing Azure. Some of those features are:
 
