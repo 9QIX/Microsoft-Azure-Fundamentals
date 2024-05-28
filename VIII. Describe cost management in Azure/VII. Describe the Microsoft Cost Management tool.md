@@ -8,6 +8,8 @@ Cost Management provides the ability to quickly check Azure resource costs, crea
 
 Cost analysis is a subset of Cost Management that provides a quick visual for your Azure costs. Using cost analysis, you can quickly view the total cost in a variety of different ways, including by billing cycle, region, resource, and so on.
 
+![alt text](image-7.png)
+
 You use cost analysis to explore and analyze your organizational costs. You can view aggregated costs by organization to understand where costs are accrued and to identify spending trends. And you can see accumulated costs over time to estimate monthly, quarterly, or even yearly cost trends against a budget.
 
 ## **Cost alerts**
