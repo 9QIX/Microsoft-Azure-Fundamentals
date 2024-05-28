@@ -22,9 +22,7 @@ To migrate to Azure, you might:
 
 Here's a diagram that shows the basic configuration:
 
-```
-A diagram showing a potential Azure solution for hosting an application.
-```
+![alt text](image-4.png)
 
 In practice, you would define your requirements in greater detail. But here are some basic facts and requirements to get you started:
 
@@ -42,7 +40,7 @@ Go to the [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calcula
 
 Notice the following tabs:
 
-![Screenshot of the Pricing calculator menu bar with the Products tab selected](pricing-calculator-menu.png)
+![alt text](image-5.png)
 
 - **Products** This is where you choose the Azure services that you want to include in your estimate. You'll likely spend most of your time here.
 - **Example scenarios** Here you'll find several reference architectures, or common cloud-based solutions that you can use as a starting point.
@@ -127,7 +125,3 @@ You now have a cost estimate that you can share with your team. You can make adj
 Experiment with some of the options you worked with here, or create a purchase plan for a workload you want to run on Azure.
 
 Next unit: Exercise - Compare workload costs using the TCO calculator
-
-```
-
-```
