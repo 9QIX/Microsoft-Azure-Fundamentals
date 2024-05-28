@@ -12,10 +12,14 @@ The pricing calculator is designed to give you an estimated cost for provisionin
 
 With the pricing calculator, you can estimate the cost of any provisioned resources, including compute, storage, and associated network costs. You can even account for different storage options like storage type, access tier, and redundancy.
 
+![alt text](image-2.png)
+
 ## **TCO calculator**
 
 The TCO calculator is designed to help you compare the costs for running an on-premises infrastructure compared to an Azure Cloud infrastructure. With the TCO calculator, you enter your current infrastructure configuration, including servers, databases, storage, and outbound network traffic. The TCO calculator then compares the anticipated costs for your current environment with an Azure environment supporting the same infrastructure requirements.
 
 With the TCO calculator, you enter your configuration, add in assumptions like power and IT labor costs, and are presented with an estimation of the cost difference to run the same environment in your current datacenter or in Azure.
+
+![alt text](image-3.png)
 
 ## **Next unit: Exercise - Estimate workload costs by using the Pricing calculator**
