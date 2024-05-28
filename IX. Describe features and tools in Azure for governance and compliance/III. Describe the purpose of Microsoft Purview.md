@@ -10,6 +10,8 @@ With Microsoft Purview, you can stay up-to-date on your data landscape thanks to
 
 Two main solution areas comprise Microsoft Purview: **risk and compliance** and **unified data governance**.
 
+![alt text](./Images/image.png)
+
 ## **Microsoft Purview risk and compliance solutions**
 
 Microsoft 365 features as a core component of the Microsoft Purview risk and compliance solutions. Microsoft Teams, OneDrive, and Exchange are just some of the Microsoft 365 services that Microsoft Purview uses to help manage and monitor your data. Microsoft Purview, by managing and monitoring your data, is able to help your organization:
